@@ -1,0 +1,16 @@
+table{
+    padding: 2px;
+    margin: 50px auto 0px ;
+}
+tr{
+    padding: 2px;
+}
+th{
+    padding: 2px;
+}
+td{
+    padding: 6px;
+}
+a{
+    color: red;
+}
