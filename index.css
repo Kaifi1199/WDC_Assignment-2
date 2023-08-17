@@ -1,19 +1,16 @@
 table{
-    padding: 2px;
+    padding: 1px;
     margin: 50px auto 0px ;
 }
 tr{
     padding: 2px;
 }
 th{
-    padding: 2px;
+    padding: 4px;
 }
 td{
     padding: 6px;
 }
 a{
     color: red;
-}
-body{
-   background-image: url(images/Screenshot_20230204_090336.png);
 }
